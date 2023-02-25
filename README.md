@@ -1,16 +1,5 @@
-# personal_money_management_app
+# Personal Money Management App
 
-A new Flutter project.
+This is a Flutter based app for personal money management. This project uses the Hive Database for data storage locally on user's Device. The app has features for creating a category of income or expense and add transactions related to that category. The app lists all the transactions with its details.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Uses : Flutter, Hive
